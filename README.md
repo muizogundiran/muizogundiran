@@ -6,6 +6,8 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/muiz-ogundiran-27a0aa204)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/muizgundiran)
 
+[![Muiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muizogundiran)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **muizogundiran/muizogundiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
