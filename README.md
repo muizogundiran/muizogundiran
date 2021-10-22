@@ -1,5 +1,5 @@
 # Hi there 👋
-#### I'm software developer from Nigeria 🇳🇬
+I'm software developer from Nigeria 🇳🇬
 
  > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties. 😊
 
