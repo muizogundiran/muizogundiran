@@ -3,13 +3,14 @@
 
  > Reach out, it would be great to hear from you and maybe we could even develop some good personal or professional ties. 😊
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/muiz-ogundiran-27a0aa204)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/muizgundiran)
+ [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/muiz-ogundiran-27a0aa204)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/muizgundiran)
+<br />
+#
 
-<br/>
 
-[![Muiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muizogundiran)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Muiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muizogundiran&count_private=true&show_icons=true&theme=highcontrast&hide_rank=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Muiz's Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=a56oe5ptg7bzx7nq12fyolbni&cover_image=true&theme=novatorem&bar_color=e7e00d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=a56oe5ptg7bzx7nq12fyolbni&redirect=true) 
+<!-- [[https://spotify-github-profile.vercel.app/api/view.svg?uid=a56oe5ptg7bzx7nq12fyolbni&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=a56oe5ptg7bzx7nq12fyolbni&cover_image=true&theme=novatorem&bar_color=e7e00d&bar_color_cover=false)]] -->
 <!--
 **muizogundiran/muizogundiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
